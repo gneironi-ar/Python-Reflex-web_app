@@ -11,18 +11,6 @@ This framework allows you to write the project using Python, and builds everythi
 
 Reflex is an open-source, full-stack Python framework that makes it easy to build and deploy web apps in minutes. 
 
-web_python_reflex
-├── .web
-├── assets
-├── web_python_reflex
-│   ├── __init__.py
-│   ├── state.py
-│   ├── style.py
-│   └── web_python_reflex.py
-└── readme.md
-└── requirements.txt
-└── rxconfig.py
-
 ### Requirements 📋
 
 All project requirements are recorded in requirements.txt
